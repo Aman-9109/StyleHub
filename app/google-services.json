@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "819413689266",
+    "project_id": "stylehub-eb4ae",
+    "storage_bucket": "stylehub-eb4ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819413689266:android:b464f065e621fc4729baab",
+        "android_client_info": {
+          "package_name": "com.example.stylehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVAHOTm0r-PERSWZPlvDOtOFVvRII6r8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819413689266:android:25dcd59974e7876429baab",
+        "android_client_info": {
+          "package_name": "com.example.stylehubadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVAHOTm0r-PERSWZPlvDOtOFVvRII6r8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
